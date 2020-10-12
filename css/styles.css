@@ -6,7 +6,9 @@
 @import "components/status-bar.css";
 @import "components/nav-bar.css";
 @import "components/screen-header.css";
+@import "components/alt-screen-header.css";
 @import "components/icon-row.css";
+@import "components/no-mobile.css";
 
 /* screens */
 @import "screens/login.css";
@@ -18,6 +20,8 @@
 @import "components/user-component.css";
 @import "components/badge.css";
 @import "screens/find.css";
+@import "screens/settings.css";
+@import "screens/chat.css";
 
 /* Screens */
 body {
